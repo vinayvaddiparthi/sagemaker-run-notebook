@@ -1,6 +1,6 @@
 # sagemaker_run_extension
 
-![Github Actions Status](https://github.com/awslabs/sagemaker_run_notebook/workflows/Build/badge.svg)
+![Github Actions Status](https://github.com/aws-samples/sagemaker_run_notebook/workflows/Build/badge.svg)
 
 Execute notebooks on a schedule in SageMaker
 
